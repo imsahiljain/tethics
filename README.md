@@ -29,7 +29,7 @@ Then open the ```index.html``` file and here you go.
   
 ## Login Page
 
-For the login page you can any credentials, as this website is just frontend.
+For the login page you can use any credentials, as this website is just frontend.
 For example:-
 
 Username: ```tethics```
